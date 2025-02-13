@@ -1,0 +1,1 @@
+Welcome to the Incentivized Blockchain Architecture for a Secured Smart K- ETS
