@@ -2,8 +2,8 @@
   "_format": "hh-sol-cache-2",
   "files": {
     "/home/xaviwho/K-ETS/contracts/KETSBlockchain.sol": {
-      "lastModificationDate": 1739437634380,
-      "contentHash": "f6eb7485edd81f5364eb77a870e0a19f",
+      "lastModificationDate": 1739444995612,
+      "contentHash": "2db5016663d4ac03ce4b51f7397b9c94",
       "sourceName": "contracts/KETSBlockchain.sol",
       "solcConfig": {
         "version": "0.8.10",

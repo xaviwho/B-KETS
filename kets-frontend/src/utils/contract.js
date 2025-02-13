@@ -1,7 +1,7 @@
 import Web3 from "web3";
 import contractABI from "./contractABI.json"; // Ensure this file exists
 
-const contractAddress = "0x2e5B26395C76FaEa7e45C19aE770624B38A81C21"; // Replace with your deployed contract address
+const contractAddress = "0x16b3F2768f7a3ddbd1A2396012fe5806D0614a54"; // Replace with your deployed contract address
 
 // Function to initialize Web3
 export async function getWeb3() {

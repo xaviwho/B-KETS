@@ -1,7 +1,7 @@
 const hre = require("hardhat");
 
 async function main() {
-  const contractAddress = "0x2e5B26395C76FaEa7e45C19aE770624B38A81C21"; // Replace with actual address
+  const contractAddress = "0x16b3F2768f7a3ddbd1A2396012fe5806D0614a54"; // Replace with actual address
   const KETSBlockchain = await hre.ethers.getContractFactory("KETSBlockchain");
   const kets = await KETSBlockchain.attach(contractAddress);
 
